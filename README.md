@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://via.placeholder.com/1000x250?text=Welcome+to+My+GitHub+Profile" alt="Banner"/>
+  <img src="https://i.ibb.co/m5vHWtW6/Banner-For-Github.png" alt="Banner"/>
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Mizanur Rahman</h1>
 <h3 align="center">Frontend Developer | Exploring MERN Stack</h3>
