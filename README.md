@@ -64,6 +64,29 @@ Currently learning new technologies and improving my development workflow.
 
 ---
 
-## 📌 My Pinned Projects  
+
+## 📌 My Pinned Projects
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME/intertrade-nexus" target="_blank">
+    <b>InterTrade Nexus</b>
+  </a>
+  <br><br>
+  <a href="https://github.com/Rah-Mizanur/B12-A08-Project-BitVault" target="_blank">
+    <b>Project BitVault</b>
+  </a>  
+  <br><br>
+
+
+  <a href="https://github.com/Rah-Mizanur/B12-A06-Green-Earth-Assignment" target="_blank">
+    <b>Project Green Earth</b>
+  </a>  
+  <br><br>
+
+
+
+
+</p>
+
 
 
