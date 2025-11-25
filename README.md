@@ -68,7 +68,7 @@ Currently learning new technologies and improving my development workflow.
 ## 📌 My Pinned Projects
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/intertrade-nexus" target="_blank">
+  <a href="https://intertrade-nexus.web.app/" target="_blank">
     <b>InterTrade Nexus</b>
   </a>
   <br><br>
